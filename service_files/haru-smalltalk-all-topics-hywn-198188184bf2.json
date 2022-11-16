@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "haru-smalltalk-all-topics-hywn",
+  "private_key_id": "198188184bf268606cb3fc55bd87df4fde699562",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoAIUjqIcqk/Ah\nCurjBcWVw5lX3EFl1uVVxzf79NlTGDfaZ9QeDlD+D/cEZms06+7DL1UO962X3oxK\nc4o1MZO/3hbqD5zJ43Yc24hbqPZ2y8rOzz1jkGE24/52RCnWbWSP6Sif8HoVLdJ3\nt7eb6H30TH47kDtc0gep6UxwjitC8tmn/Gi8sm9gS9P5kwdimknmF8vjgwW873ZN\nANa5Wp2zsm/tGY9lH/aAkNUibLMyVYTfBr+nr+oX8FRG1txUDF38z2JuON5mzNGV\nnctBUq6ere4TXPICryPK4GIASyJH1MZ8ogR+E+8cKsV0l6pxIOHuour9G92+3xYT\ng9RqJyjrAgMBAAECggEAO7vjmugjFyp+qOD+3zWAKV3gufKgdhtQc41gBH/sfbUQ\ntuFP9FfWyF7Yz4GzAKAaxt+feLDr0iHY8+fc7kjwZboLn7FpaAcuSdhsxVpwN5EC\nTUI2a548Uo4CPf7CeXFv3hNi1GtmnP0r5lE2QYMKtcA06ezAjqJHA0zmVubVzvmC\nUrgwKA9OwHGa7ZXhwBlhvSFx0WN2rcDUlbo4iHIzdLSXfFpsseQJyE7f4C22wGm5\n8Y91VGL6xi7jtsleZmYVNJPjAhqRU5c+DmjGGjY9qx/eURSEtdFm4HzjKzpcQz/i\nY1k4FpP0Rc3/0nPRd7F7jygd7aZ3/GqIJyr5M3YosQKBgQDcw5ZIAX49FSy4Z7Xo\nqhDahfqAHkxfkUOCwAeaIlSjhSpH5pbzIiEz5vTVCcqA+TucCv4sctcLmIh163+f\nXB3mAQKpVddEBIOiun/s3B5/4n3txSdPfp56r+olHr85QKGCGW+2zF2Bl/MMyfze\ntRCfwvve5vFIhEZPOVtKlAjctwKBgQDC0RRhjAj9aKBgxQdK0dCKFpT4EYgItAmd\np5LBNTG/Ts8JftTziE9WHmGS52uEyzZQ2m8cOlCbEt2vfklyzabBV5D2dtK5GXw0\n7JNZbgLP3YvwkBhvlIsJ+5DiEWhSFRAuZs3lXyPXQAjQgGCzqIUHH65fwokAjd3J\nI/6+MRdJbQKBgGwshon3+VSS+JvPbcp48tMxDUMUFZZKhssdr1vucIzDpqkeq16t\nnZliFRwCtTCnb3cRx+QdzZPIBS3K3HlI2PmoCxbQki+pCpuFSUPVxDgj0lLc5VtF\njwBNDK1tuIOkUL+AGUZ4M2VaAGWG4Bp8nI28LFDX1ukSr6UIVNxhV0pXAoGAJkvZ\neM+BWOc/V6aDp3aVSv/jatxvZF6X4VD2rVpanCPO2SwAipsKFYDFZ45seV9FHyHB\nY8gm3kUYJQ5rO9EnbaxcB8cV52MWIoU69gKFNP11K+X3l7+YkW7NbVNEsZYIZ0a4\nRNWuAvtIgEwsNkTzWZIlwhdIvT4mEgssYZDe5gUCgYA49JFYhp1O31R0uKE9SecX\nKvA3McHXND0Lqf72OelLwj5I5ukvpxZ7I+8Kt8mX5splBmnkv2Q54e9M+z5sK6fr\naRSG5nijWbFnjQeoQhrvLKlP/DnpwgGMfZ2Wg5/Hgjh2V5zfrJY7F8Q2KP5doInT\nA7di3deJGNdu+64e/Rh+Hw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lithin-evaluation-2@haru-smalltalk-all-topics-hywn.iam.gserviceaccount.com",
+  "client_id": "108936183723821862901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lithin-evaluation-2%40haru-smalltalk-all-topics-hywn.iam.gserviceaccount.com"
+}
